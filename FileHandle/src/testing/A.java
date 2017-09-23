@@ -17,7 +17,7 @@ public class A {
        B o = new B();     
        B.a=10;    
        System.out.println(B.a);
-		
+	System.out.println("Testing");	
 	}
 	
 	
